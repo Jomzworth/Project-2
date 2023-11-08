@@ -73,8 +73,9 @@ public class GamePlay : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.A))
         {
             Debug.Log("You put the fish in your Fish Tank");
-            
 
+
+            
         }
 
         if(Input.GetKeyDown(KeyCode.D))
